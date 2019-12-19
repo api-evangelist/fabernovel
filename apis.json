@@ -1,0 +1,69 @@
+{
+    "name": "FABERNOVEL",
+    "description": "FABERNOVEL est un groupe \"full-stack\"\u200b de conseil et de solutions en innovation qui a accompagn\u00e9 depuis sa cr\u00e9ation plus des 3\/4 des entreprises du CAC 40 dans leur transformation num\u00e9rique.     Il est constitu\u00e9 de sa branche Formation (FABERNOVEL INST...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2653-fabernovel.jpg",
+    "tags": [
+        "agencies",
+        "api lifeycle",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fabernovel\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FABERNOVEL",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2653-fabernovel.jpg",
+            "humanURL": "http:\/\/innovate.fabernovel.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fabernovel-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.fabernovel.com\/journal\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.fabernovel.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/fabernovel"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fabernovel"
+        },
+        {
+            "type": "Email",
+            "url": "medias@fabernovel.com"
+        },
+        {
+            "type": "Curated Source",
+            "url": "http:\/\/innovate.fabernovel.com\/2016\/05\/11\/bots-are-eating-the-web\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/innovate.fabernovel.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fabernovel"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.fabernovel.com\/"
+        }
+    ]
+}
